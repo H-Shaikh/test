@@ -1,0 +1,5 @@
+{{#user}}
+Name: Mohd Hamza Shaikh
+Skills: Python, django, Mysql, HTML/CSS/JS
+Email: hamzashaikh9795@gmail.com
+{{/user}}
